@@ -19,6 +19,7 @@
 
 
 # Navigation Structure 
+```
 NavigationContainer
 │
 └── TabNavigator
@@ -34,4 +35,4 @@ NavigationContainer
     │
     └── SettingsTab
           └── SettingsScreen
-
+```
